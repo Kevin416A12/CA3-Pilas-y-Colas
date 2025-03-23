@@ -1,0 +1,14 @@
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\bin\Debug\net8.0\porListas.exe
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\bin\Debug\net8.0\porListas.deps.json
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\bin\Debug\net8.0\porListas.runtimeconfig.json
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\bin\Debug\net8.0\porListas.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\bin\Debug\net8.0\porListas.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.AssemblyInfoInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.AssemblyInfo.cs
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.csproj.CoreCompileInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\refint\porListas.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\porListas.genruntimeconfig.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porListas\obj\Debug\net8.0\ref\porListas.dll

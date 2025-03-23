@@ -1,0 +1,14 @@
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\bin\Debug\net8.0\porArray.exe
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\bin\Debug\net8.0\porArray.deps.json
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\bin\Debug\net8.0\porArray.runtimeconfig.json
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\bin\Debug\net8.0\porArray.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\bin\Debug\net8.0\porArray.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.AssemblyInfoInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.AssemblyInfo.cs
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.csproj.CoreCompileInputs.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\refint\porArray.dll
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.pdb
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\porArray.genruntimeconfig.cache
+C:\Users\anoni\Documents\Proyectos de Rider\Pilas\porArray\obj\Debug\net8.0\ref\porArray.dll
